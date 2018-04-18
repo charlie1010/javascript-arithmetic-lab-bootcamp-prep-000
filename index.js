@@ -13,6 +13,6 @@ function multiply(a,b) {
 function inc(a) {
   return a+1
 }
-function decrease(a) {
+function dec(a) {
   return a-1
 }
