@@ -1,2 +1,2 @@
 function add() {
-  return a + b
+  return a+b
